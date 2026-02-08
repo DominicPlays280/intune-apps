@@ -1,2 +1,7 @@
 Version 1.0
 Brave.Brave
+Bitwarden.Bitwarden
+voidtools.Everything.Alpha
+OBSProject.OBSStudio
+PrismLauncher.PrismLauncher
+Roblox.Roblox
