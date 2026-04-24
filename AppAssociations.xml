@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".001" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".3fr" ProgId="ImageGlass.AssocFile.3FR" ApplicationName="ImageGlass" />
+  <Association Identifier=".3g2" ProgId="AppXdc9x65s5wqq4spwds188r836w7we0bhr" ApplicationName="Screenbox" />
+  <Association Identifier=".3gp" ProgId="AppX7ftqttz4nwrqkpbmp4nat4qhpxj4mcpa" ApplicationName="Screenbox" />
+  <Association Identifier=".3gp2" ProgId="AppXdc9x65s5wqq4spwds188r836w7we0bhr" ApplicationName="Screenbox" />
+  <Association Identifier=".3gpp" ProgId="AppX7ftqttz4nwrqkpbmp4nat4qhpxj4mcpa" ApplicationName="Screenbox" />
+  <Association Identifier=".7z" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".aac" ProgId="AppX31zww5je1mbtjgtzdf90yngkq3v5vzh5" ApplicationName="Screenbox" />
+  <Association Identifier=".ac3" ProgId="AppXq0sb2ges13vab8tep9n28vycc7q4fesn" ApplicationName="Screenbox" />
+  <Association Identifier=".adts" ProgId="AppX31zww5je1mbtjgtzdf90yngkq3v5vzh5" ApplicationName="Screenbox" />
+  <Association Identifier=".apng" ProgId="ImageGlass.AssocFile.APNG" ApplicationName="ImageGlass" />
+  <Association Identifier=".ari" ProgId="ImageGlass.AssocFile.ARI" ApplicationName="ImageGlass" />
+  <Association Identifier=".arj" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".arw" ProgId="ImageGlass.AssocFile.ARW" ApplicationName="ImageGlass" />
+  <Association Identifier=".asf" ProgId="AppXa6kwxfsnrm7z80sw2r93zkepm3rqe91w" ApplicationName="Screenbox" />
+  <Association Identifier=".avci" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".avi" ProgId="AppXv27nbhteg730r4jsg9naj21w8bmv7k77" ApplicationName="Screenbox" />
+  <Association Identifier=".avif" ProgId="ImageGlass.AssocFile.AVIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".b64" ProgId="ImageGlass.AssocFile.B64" ApplicationName="ImageGlass" />
+  <Association Identifier=".bay" ProgId="ImageGlass.AssocFile.BAY" ApplicationName="ImageGlass" />
+  <Association Identifier=".bmp" ProgId="ImageGlass.AssocFile.BMP" ApplicationName="ImageGlass" />
+  <Association Identifier=".bz" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".bz2" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".cab" ProgId="CABFolder" ApplicationName="Windows Explorer" />
+  <Association Identifier=".cap" ProgId="ImageGlass.AssocFile.CAP" ApplicationName="ImageGlass" />
+  <Association Identifier=".cr2" ProgId="ImageGlass.AssocFile.CR2" ApplicationName="ImageGlass" />
+  <Association Identifier=".cr3" ProgId="ImageGlass.AssocFile.CR3" ApplicationName="ImageGlass" />
+  <Association Identifier=".crw" ProgId="ImageGlass.AssocFile.CRW" ApplicationName="ImageGlass" />
+  <Association Identifier=".cur" ProgId="ImageGlass.AssocFile.CUR" ApplicationName="ImageGlass" />
+  <Association Identifier=".cut" ProgId="ImageGlass.AssocFile.CUT" ApplicationName="ImageGlass" />
+  <Association Identifier=".dcr" ProgId="ImageGlass.AssocFile.DCR" ApplicationName="ImageGlass" />
+  <Association Identifier=".dcs" ProgId="ImageGlass.AssocFile.DCS" ApplicationName="ImageGlass" />
+  <Association Identifier=".dds" ProgId="ImageGlass.AssocFile.DDS" ApplicationName="ImageGlass" />
+  <Association Identifier=".dib" ProgId="ImageGlass.AssocFile.DIB" ApplicationName="ImageGlass" />
+  <Association Identifier=".dng" ProgId="ImageGlass.AssocFile.DNG" ApplicationName="ImageGlass" />
+  <Association Identifier=".drf" ProgId="ImageGlass.AssocFile.DRF" ApplicationName="ImageGlass" />
+  <Association Identifier=".eip" ProgId="ImageGlass.AssocFile.EIP" ApplicationName="ImageGlass" />
+  <Association Identifier=".emf" ProgId="ImageGlass.AssocFile.EMF" ApplicationName="ImageGlass" />
+  <Association Identifier=".erf" ProgId="ImageGlass.AssocFile.ERF" ApplicationName="ImageGlass" />
+  <Association Identifier=".exif" ProgId="ImageGlass.AssocFile.EXIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".exr" ProgId="ImageGlass.AssocFile.EXR" ApplicationName="ImageGlass" />
+  <Association Identifier=".fff" ProgId="ImageGlass.AssocFile.FFF" ApplicationName="ImageGlass" />
+  <Association Identifier=".fits" ProgId="ImageGlass.AssocFile.FITS" ApplicationName="ImageGlass" />
+  <Association Identifier=".flac" ProgId="AppXq93y49pp9c60w68m61pn6t2nqxf7xwep" ApplicationName="Screenbox" />
+  <Association Identifier=".flif" ProgId="ImageGlass.AssocFile.FLIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".gif" ProgId="ImageGlass.AssocFile.GIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".gifv" ProgId="ImageGlass.AssocFile.GIFV" ApplicationName="ImageGlass" />
+  <Association Identifier=".gpr" ProgId="ImageGlass.AssocFile.GPR" ApplicationName="ImageGlass" />
+  <Association Identifier=".gz" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".hdp" ProgId="ImageGlass.AssocFile.HDP" ApplicationName="ImageGlass" />
+  <Association Identifier=".hdr" ProgId="ImageGlass.AssocFile.HDR" ApplicationName="ImageGlass" />
+  <Association Identifier=".heic" ProgId="ImageGlass.AssocFile.HEIC" ApplicationName="ImageGlass" />
+  <Association Identifier=".heif" ProgId="ImageGlass.AssocFile.HEIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".hif" ProgId="ImageGlass.AssocFile.HIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".htm" ProgId="BraveHTML" ApplicationName="Brave" />
+  <Association Identifier=".html" ProgId="BraveHTML" ApplicationName="Brave" />
+  <Association Identifier=".ico" ProgId="ImageGlass.AssocFile.ICO" ApplicationName="ImageGlass" />
+  <Association Identifier=".iiq" ProgId="ImageGlass.AssocFile.IIQ" ApplicationName="ImageGlass" />
+  <Association Identifier=".inf" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++" />
+  <Association Identifier=".ini" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++" />
+  <Association Identifier=".iso" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".jar" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".jfif" ProgId="ImageGlass.AssocFile.JFIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".jp2" ProgId="ImageGlass.AssocFile.JP2" ApplicationName="ImageGlass" />
+  <Association Identifier=".jpe" ProgId="ImageGlass.AssocFile.JPE" ApplicationName="ImageGlass" />
+  <Association Identifier=".jpeg" ProgId="ImageGlass.AssocFile.JPEG" ApplicationName="ImageGlass" />
+  <Association Identifier=".jpg" ProgId="ImageGlass.AssocFile.JPG" ApplicationName="ImageGlass" />
+  <Association Identifier=".jxl" ProgId="ImageGlass.AssocFile.JXL" ApplicationName="ImageGlass" />
+  <Association Identifier=".jxr" ProgId="ImageGlass.AssocFile.JXR" ApplicationName="ImageGlass" />
+  <Association Identifier=".k25" ProgId="ImageGlass.AssocFile.K25" ApplicationName="ImageGlass" />
+  <Association Identifier=".kdc" ProgId="ImageGlass.AssocFile.KDC" ApplicationName="ImageGlass" />
+  <Association Identifier=".lha" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".log" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++" />
+  <Association Identifier=".lz" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".lzh" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".m2t" ProgId="AppX8611rzndcs2806sxjtrfy96yg78p1da3" ApplicationName="Screenbox" />
+  <Association Identifier=".m2ts" ProgId="AppXkv2p9x4qvbpg28p50af39cd3krgr3xt8" ApplicationName="Screenbox" />
+  <Association Identifier=".m3u" ProgId="AppXnkffamw4nqq4hmdb51zekpp30bfkq7bc" ApplicationName="Screenbox" />
+  <Association Identifier=".m3u8" ProgId="AppXnkffamw4nqq4hmdb51zekpp30bfkq7bc" ApplicationName="Screenbox" />
+  <Association Identifier=".m4a" ProgId="AppXfa42apr6xck0hx6f4xp2aredj2p9pq7f" ApplicationName="Screenbox" />
+  <Association Identifier=".m4v" ProgId="AppX6qz2dwva8zs8eqzyckhd8z2thhvppj1r" ApplicationName="Screenbox" />
+  <Association Identifier=".mdc" ProgId="ImageGlass.AssocFile.MDC" ApplicationName="ImageGlass" />
+  <Association Identifier=".mef" ProgId="ImageGlass.AssocFile.MEF" ApplicationName="ImageGlass" />
+  <Association Identifier=".mht" ProgId="Applications\brave.exe" ApplicationName="Brave Browser" />
+  <Association Identifier=".mhtml" ProgId="BraveHTML" ApplicationName="Brave" />
+  <Association Identifier=".mid" ProgId="AppXj09pgvzhpyy4tvb8dx3ep9afm1hzr85m" ApplicationName="Screenbox" />
+  <Association Identifier=".midi" ProgId="AppXj09pgvzhpyy4tvb8dx3ep9afm1hzr85m" ApplicationName="Screenbox" />
+  <Association Identifier=".mjpeg" ProgId="ImageGlass.AssocFile.MJPEG" ApplicationName="ImageGlass" />
+  <Association Identifier=".mka" ProgId="AppXzn1tqtvkrr2evhgr55q2tzydn6cr4mdp" ApplicationName="Screenbox" />
+  <Association Identifier=".mkv" ProgId="AppXbhy8pbfbbpf7sg7g81qzhy3zsntewrr6" ApplicationName="Screenbox" />
+  <Association Identifier=".mos" ProgId="ImageGlass.AssocFile.MOS" ApplicationName="ImageGlass" />
+  <Association Identifier=".mov" ProgId="AppXq30g28qzhxj1gvcsqgy1xhc9mzgpnmqy" ApplicationName="Screenbox" />
+  <Association Identifier=".MP2" ProgId="WMP11.AssocFile.MP3" ApplicationName="Windows Media Player Legacy" />
+  <Association Identifier=".mp3" ProgId="AppXm7q9zfya6qweyymctfg2gvca390ar6kq" ApplicationName="Screenbox" />
+  <Association Identifier=".mp4" ProgId="AppX71y36gaa5n2r7mepf9vcke8wexgppp8s" ApplicationName="Screenbox" />
+  <Association Identifier=".mpeg" ProgId="AppXar4065d6key3bzspene5p3bs3vfhhzvx" ApplicationName="Screenbox" />
+  <Association Identifier=".mpg" ProgId="AppXar4065d6key3bzspene5p3bs3vfhhzvx" ApplicationName="Screenbox" />
+  <Association Identifier=".mrw" ProgId="ImageGlass.AssocFile.MRW" ApplicationName="ImageGlass" />
+  <Association Identifier=".mts" ProgId="AppXkv2p9x4qvbpg28p50af39cd3krgr3xt8" ApplicationName="Screenbox" />
+  <Association Identifier=".nef" ProgId="ImageGlass.AssocFile.NEF" ApplicationName="ImageGlass" />
+  <Association Identifier=".nrw" ProgId="ImageGlass.AssocFile.NRW" ApplicationName="ImageGlass" />
+  <Association Identifier=".obm" ProgId="ImageGlass.AssocFile.OBM" ApplicationName="ImageGlass" />
+  <Association Identifier=".oga" ProgId="AppXk1fcga9g6wvbajd0c3wa5nn4zk91bska" ApplicationName="Screenbox" />
+  <Association Identifier=".ogg" ProgId="AppXk1fcga9g6wvbajd0c3wa5nn4zk91bska" ApplicationName="Screenbox" />
+  <Association Identifier=".ogv" ProgId="AppXj68g2bm825vdphqbz4ar7fd429j56bry" ApplicationName="Screenbox" />
+  <Association Identifier=".opus" ProgId="AppXn4aj10fzvkn5ytendctq6215y7735e6f" ApplicationName="Screenbox" />
+  <Association Identifier=".orf" ProgId="ImageGlass.AssocFile.ORF" ApplicationName="ImageGlass" />
+  <Association Identifier=".ori" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".pbm" ProgId="ImageGlass.AssocFile.PBM" ApplicationName="ImageGlass" />
+  <Association Identifier=".pcx" ProgId="ImageGlass.AssocFile.PCX" ApplicationName="ImageGlass" />
+  <Association Identifier=".pdf" ProgId="BravePDF" ApplicationName="Brave" />
+  <Association Identifier=".pef" ProgId="ImageGlass.AssocFile.PEF" ApplicationName="ImageGlass" />
+  <Association Identifier=".pgm" ProgId="ImageGlass.AssocFile.PGM" ApplicationName="ImageGlass" />
+  <Association Identifier=".png" ProgId="ImageGlass.AssocFile.PNG" ApplicationName="ImageGlass" />
+  <Association Identifier=".ppm" ProgId="ImageGlass.AssocFile.PPM" ApplicationName="ImageGlass" />
+  <Association Identifier=".ps1" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++" />
+  <Association Identifier=".psb" ProgId="ImageGlass.AssocFile.PSB" ApplicationName="ImageGlass" />
+  <Association Identifier=".psd" ProgId="ImageGlass.AssocFile.PSD" ApplicationName="ImageGlass" />
+  <Association Identifier=".psd1" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++" />
+  <Association Identifier=".psm1" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++" />
+  <Association Identifier=".ptx" ProgId="ImageGlass.AssocFile.PTX" ApplicationName="ImageGlass" />
+  <Association Identifier=".pxn" ProgId="ImageGlass.AssocFile.PXN" ApplicationName="ImageGlass" />
+  <Association Identifier=".qoi" ProgId="ImageGlass.AssocFile.QOI" ApplicationName="ImageGlass" />
+  <Association Identifier=".r3d" ProgId="ImageGlass.AssocFile.R3D" ApplicationName="ImageGlass" />
+  <Association Identifier=".raf" ProgId="ImageGlass.AssocFile.RAF" ApplicationName="ImageGlass" />
+  <Association Identifier=".rar" ProgId="WinRAR" ApplicationName="WinRAR" />
+  <Association Identifier=".raw" ProgId="ImageGlass.AssocFile.RAW" ApplicationName="ImageGlass" />
+  <Association Identifier=".rle" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
+  <Association Identifier=".rw2" ProgId="ImageGlass.AssocFile.RW2" ApplicationName="ImageGlass" />
+  <Association Identifier=".rwl" ProgId="ImageGlass.AssocFile.RWL" ApplicationName="ImageGlass" />
+  <Association Identifier=".rwz" ProgId="ImageGlass.AssocFile.RWZ" ApplicationName="ImageGlass" />
+  <Association Identifier=".scp" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++" />
+  <Association Identifier=".shtml" ProgId="BraveHTML" ApplicationName="Brave" />
+  <Association Identifier=".sr2" ProgId="ImageGlass.AssocFile.SR2" ApplicationName="ImageGlass" />
+  <Association Identifier=".srf" ProgId="ImageGlass.AssocFile.SRF" ApplicationName="ImageGlass" />
+  <Association Identifier=".srw" ProgId="ImageGlass.AssocFile.SRW" ApplicationName="ImageGlass" />
+  <Association Identifier=".svg" ProgId="ImageGlass.AssocFile.SVG" ApplicationName="ImageGlass" />
+  <Association Identifier=".tar" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".taz" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".tbz" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".tbz2" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".tga" ProgId="ImageGlass.AssocFile.TGA" ApplicationName="ImageGlass" />
+  <Association Identifier=".tgz" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".thumb" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".tif" ProgId="ImageGlass.AssocFile.TIF" ApplicationName="ImageGlass" />
+  <Association Identifier=".tiff" ProgId="ImageGlass.AssocFile.TIFF" ApplicationName="ImageGlass" />
+  <Association Identifier=".tlz" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".TS" ProgId="AppX8611rzndcs2806sxjtrfy96yg78p1da3" ApplicationName="Screenbox" />
+  <Association Identifier=".txt" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++" />
+  <Association Identifier=".txz" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".tzst" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".url" ProgId="InternetShortcut" ApplicationName="Internet Browser" />
+  <Association Identifier=".uu" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".uue" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".viff" ProgId="ImageGlass.AssocFile.VIFF" ApplicationName="ImageGlass" />
+  <Association Identifier=".wav" ProgId="AppXr4agd59zpk28rxt499qccxsx8xsf50pm" ApplicationName="Screenbox" />
+  <Association Identifier=".wdp" ProgId="ImageGlass.AssocFile.WDP" ApplicationName="ImageGlass" />
+  <Association Identifier=".webm" ProgId="AppXbp881rn3wpyz6h9gjgep9a4prw3af41g" ApplicationName="Screenbox" />
+  <Association Identifier=".webp" ProgId="ImageGlass.AssocFile.WEBP" ApplicationName="ImageGlass" />
+  <Association Identifier=".wm" ProgId="AppXr3zvp49m4hd3saq5pm8d96zr44z750r2" ApplicationName="Screenbox" />
+  <Association Identifier=".wma" ProgId="AppXdxb16pe2tm362qp7rdssjphyt1d4sdpq" ApplicationName="Screenbox" />
+  <Association Identifier=".wmf" ProgId="ImageGlass.AssocFile.WMF" ApplicationName="ImageGlass" />
+  <Association Identifier=".wmv" ProgId="AppXzp8zwetfbne831jj4f4jw2j9g848wf3d" ApplicationName="Screenbox" />
+  <Association Identifier=".wpg" ProgId="ImageGlass.AssocFile.WPG" ApplicationName="ImageGlass" />
+  <Association Identifier=".wtx" ProgId="Applications\notepad++.exe" ApplicationName="Notepad++" />
+  <Association Identifier=".x3f" ProgId="ImageGlass.AssocFile.X3F" ApplicationName="ImageGlass" />
+  <Association Identifier=".xbm" ProgId="ImageGlass.AssocFile.XBM" ApplicationName="ImageGlass" />
+  <Association Identifier=".xht" ProgId="BraveHTML" ApplicationName="Brave" />
+  <Association Identifier=".xhtml" ProgId="BraveHTML" ApplicationName="Brave" />
+  <Association Identifier=".xml" ProgId="Applications\brave.exe" ApplicationName="Brave Browser" />
+  <Association Identifier=".xpm" ProgId="ImageGlass.AssocFile.XPM" ApplicationName="ImageGlass" />
+  <Association Identifier=".xv" ProgId="ImageGlass.AssocFile.XV" ApplicationName="ImageGlass" />
+  <Association Identifier=".xxe" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".xz" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".z" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".zip" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".zipx" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier=".zst" ProgId="Applications\7zG.exe" ApplicationName="7-Zip GUI" />
+  <Association Identifier="http" ProgId="BraveHTML" ApplicationName="Brave" />
+  <Association Identifier="https" ProgId="BraveHTML" ApplicationName="Brave" />
+  <Association Identifier="mailto" ProgId="Outlook.URL.mailto.15" ApplicationName="Outlook (classic)" />
+  <Association Identifier="tel" ProgId="BraveHTML" ApplicationName="Brave" />
+  <Association Identifier="webcal" ProgId="Outlook.URL.webcal.15" ApplicationName="Outlook (classic)" />
+</DefaultAssociations>
